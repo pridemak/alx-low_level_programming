@@ -28,3 +28,4 @@ Use the function puts
 You are not allowed to use printf
 
 Your program should end with the value 0
+a C program that prints the size of various types on the computer it is compiled and run on
