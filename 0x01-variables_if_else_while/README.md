@@ -4,3 +4,4 @@ mandatory
 
 
 The last digit
+print alphabet
