@@ -20,7 +20,7 @@ int len(char *str)
 }
 
 /**
-	return (len);
+ * num_words - counts the number of words in st
  *@str: string to be used
  *
  *Return: number of words
